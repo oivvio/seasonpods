@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Oivvio Polite Liberationtech
+your_name                                 : Liberationtech
 your_link                                 : https://liberationtech.net              
 your_city                                 : Stockholm                
 email_address                             : info@seasonpods.com
@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Binge worthy
-    description                           : Season only contain podcasts that tell one story over multiple episodes. Like Serial, S-Town or Homecoming. If you enjoy shows like these you'll love Season.
+    description                           : Season only contain podcasts that tell one story over multiple episodes. Like Serial, S-Town or Homecoming. If you enjoy shows like these you'll love Season. No news, no sports no pundits. Just the good stuff.
     fontawesome_icon_name                 : podcast
     
   - title                                 : Complete seasons only
@@ -44,7 +44,7 @@ features                                  :
     fontawesome_icon_name                 : headphones
 
   - title                                 : Human curation
-    description                           : There are about half a million podcasts out there. But only maybe a thousand you want to listen to. Season make's it easier to find the needle by removing most of the haystack and leaving in shows that meet a certain level of quality.
+    description                           : There are half a million podcasts out there, but only about a thousand you want to listen to. Season make's it easier to find the needle by removing most of the haystack and only leaving in shows that meet a certain level of quality.
     fontawesome_icon_name                 : star
 
 
