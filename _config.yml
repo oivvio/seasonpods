@@ -36,15 +36,15 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Binge worthy
-    description                           : Season only lists long form podcasts, be it fiction or journalism, that tell one story over multiple episodes. Think Serial, S-Town, Homecoming, Rabbit Hole or Dolly Parton's America. Season makes it easy to find shows like these and provides a player experience tailored for them.
+    description                           : Season only lists long form podcasts, be it fiction or journalism, that tell one story over multiple episodes. Think Serial, S-Town, Homecoming, Rabbit Hole or Dolly Parton's America. Season makes it easy to find shows like these and provides a player experience tailored to them.
     fontawesome_icon_name                 : podcast
     
   - title                                 : Complete seasons only
-    description                           : Every show you find in Season is complete and ready to be binged now so you never have to wait around for the next episode to drop.
+    description                           : Every show you find in Season is complete and ready to be binged now, so you never have to wait around for the next episode to drop.
     fontawesome_icon_name                 : headphones
 
   - title                                 : Human curation
-    description                           : There are half a million podcasts out there, but only about a thousand you want to listen to. Season make's it easier to find the needle by removing most of the haystack and only leaving in shows that meet a certain level of quality.
+    description                           : There are half a million podcasts out there, but only about a thousand you want to listen to. Season make's it easier to find the needle by removing most of the haystack and only leaving in shows that meet a high level of quality.
     fontawesome_icon_name                 : star
 
 
