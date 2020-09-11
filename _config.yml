@@ -22,11 +22,11 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Liberationtech
 your_link                                 : https://liberationtech.net              
-your_city                                 : Stockholm                
+your_city                                 : Stockholm, Sweden                
 email_address                             : info@seasonpods.com
 facebook_username                         :                                           
-instagram_username                        : seasonpods
-twitter_username                          : seasonpods
+# instagram_username                        : seasonpods
+# twitter_username                          : seasonpods
 # github_username                           : oivvio
 youtube_username                          :
 
