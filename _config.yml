@@ -13,7 +13,7 @@ playstore_link                            :                                     
 app_icon                                  : assets/icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Season                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : " "                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Bingeworthy podcasts
+app_description                           : Bingeworthy podcasts. Find and enjoy limited series and audio drama podcasts.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,17 +36,22 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Binge worthy
-    description                           : Season only contain podcasts that tell one story over multiple episodes. Like Serial, S-Town or Homecoming. If you enjoy shows like these you'll love Season. No news, no sports no pundits. Just the good stuff.
+    description                           : Season only lists long form podcasts, be it fiction or journalism, that tell one story over multiple episodes. Like Serial, S-Town or Homecoming. Season makes it easy to find shows like these and provides a player experience tailored for them.
     fontawesome_icon_name                 : podcast
     
   - title                                 : Complete seasons only
-    description                           : Every show you find in Season is complete and ready to be binged now.
+    description                           : Every show you find in Season is complete and ready to be binged now so you never have to wait around for the next episode to drop.
     fontawesome_icon_name                 : headphones
 
   - title                                 : Human curation
     description                           : There are half a million podcasts out there, but only about a thousand you want to listen to. Season make's it easier to find the needle by removing most of the haystack and only leaving in shows that meet a certain level of quality.
     fontawesome_icon_name                 : star
 
+
+  - title                                 : Simplicity
+    description                           : Since Season doesn't list episodic shows it's a lot simpler to use than your average podcast player. There are no feeds, subscriptions or "up next" pages to juggle around. Just find a season you want to listen to, start playing and it plays all episodes, from beginning to end. It feels more like an audio book player.
+    fontawesome_icon_name                 : smile
+    
 
   - title                                 : Have your say
     description                           : Season is still in beta and is still getting molded. If you have a feature you always wanted in a podcast player, this is your chance to get it in.
