@@ -13,7 +13,7 @@ playstore_link                            :                                     
 app_icon                                  : assets/icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Season                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : " "                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Binge worthy podcasts. Find and enjoy limited series and audio drama podcasts.
+app_description                           : Find and enjoy limited series and audio drama podcasts.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,8 +35,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Binge worthy
-    description                           : Season only lists long form podcasts, be it fiction or journalism, that tell one story over multiple episodes. Think <em>Serial</em>, <em>S-Town</em>, <em>Homecoming</em>, <em>Rabbit Hole</em> or <em>Dolly Parton's America</em>. Season makes it easy to find shows like these and provides a player experience tailored to them.
+  - title                                 : Long form only
+    description                           : <bold>Season</bold> only lists long form podcasts (be it fiction or journalism) that tell one story over multiple episodes. Think <em>Serial</em>, <em>S-Town</em>, <em>Homecoming</em>, <em>Rabbit Hole</em> or <em>Dolly Parton's America</em>. Season makes it easy to find shows like these and provides a player experience tailored to them.
     fontawesome_icon_name                 : podcast
     
   - title                                 : Complete seasons only
