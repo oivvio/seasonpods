@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Long form only
-    description                           : <strong>strong</bold> only lists long form podcasts (be it fiction or journalism) that tell one story over multiple episodes. Think <strong>Serial</strong>, <strong>S-Town</strong>, <strong>Homecoming</strong>, <strong>Rabbit Hole</strong> or <strong>Dolly Parton's America</strong>. <strong>Season</strong> makes it easy to find shows like these and provides a player experience tailored to them.
+    description                           : <strong>Season</strong> only lists long form podcasts (be it fiction or journalism) that tell one story over multiple episodes. Think <strong>Serial</strong>, <strong>S-Town</strong>, <strong>Homecoming</strong>, <strong>Rabbit Hole</strong> or <strong>Dolly Parton's America</strong>. <strong>Season</strong> makes it easy to find shows like these and provides a player experience tailored to them.
     fontawesome_icon_name                 : podcast
     
   - title                                 : Complete seasons only
