@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Binge worthy
-    description                           : Season only lists long form podcasts, be it fiction or journalism, that tell one story over multiple episodes. Think Serial, S-Town, Homecoming, Rabbit Hole or Dolly Parton's America. Season makes it easy to find shows like these and provides a player experience tailored to them.
+    description                           : Season only lists long form podcasts, be it fiction or journalism, that tell one story over multiple episodes. Think <em>Serial</em>, <em>S-Town</em>, <em>Homecoming</em>, <em>Rabbit Hole</em> or <em>Dolly Parton's America</em>. Season makes it easy to find shows like these and provides a player experience tailored to them.
     fontawesome_icon_name                 : podcast
     
   - title                                 : Complete seasons only
