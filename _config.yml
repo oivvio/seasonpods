@@ -13,7 +13,7 @@ playstore_link                            :                                     
 app_icon                                  : assets/icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Season                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : " "                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Find and enjoy limited series and audio drama podcasts.
+app_description                           : Lmited series and audio drama podcasts. Complete seasons only.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,7 +35,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Long form only
+  - title                                 : Limited series and audio drama only
     description                           : <strong>Season</strong> only lists long form podcasts (be it fiction or journalism) that tell one story over multiple episodes. Think <strong>Serial</strong>, <strong>S-Town</strong>, <strong>Homecoming</strong>, <strong>Rabbit Hole</strong> or <strong>Dolly Parton's America</strong>. <strong>Season</strong> makes it easy to find shows like these and provides a player experience tailored to them.
     fontawesome_icon_name                 : podcast
     
