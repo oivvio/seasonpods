@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Limited series and audio drama only
-    description                           : <strong>Season</strong> only lists long form podcasts (be it fiction or journalism) that tell one story over multiple episodes. Think <strong>Serial</strong>, <strong>S-Town</strong> or  <strong>Homecoming</strong>. <strong>Season</strong> makes it easy to find shows like these and provides a player experience tailored to them.
+    description                           : <strong>Season</strong> only lists long form podcasts (be it fiction or journalism) that tell one story over multiple episodes. Think <strong><em>Serial</em></strong>, <strong><em>S-Town</em></strong> or  <strong><em>Homecoming</em></strong>. <strong>Season</strong> makes it easy to find shows like these and provides a player experience tailored to them.
     fontawesome_icon_name                 : podcast
     
   - title                                 : Complete seasons only
