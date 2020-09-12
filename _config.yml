@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Limited series and audio drama only
-    description                           : <strong>Season</strong> only lists long form podcasts (be it fiction or journalism) that tell one story over multiple episodes. Think <strong>Serial</strong>, <strong>S-Town</strong>, <strong>Homecoming</strong>, <strong>Rabbit Hole</strong> or <strong>Dolly Parton's America</strong>. <strong>Season</strong> makes it easy to find shows like these and provides a player experience tailored to them.
+    description                           : <strong>Season</strong> only lists long form podcasts (be it fiction or journalism) that tell one story over multiple episodes. Think <strong>Serial</strong>, <strong>S-Town</strong> or  <strong>Homecoming</strong>. <strong>Season</strong> makes it easy to find shows like these and provides a player experience tailored to them.
     fontawesome_icon_name                 : podcast
     
   - title                                 : Complete seasons only
@@ -49,7 +49,7 @@ features                                  :
 
 
   - title                                 : As simple as an audio book player
-    description                           : Since <strong>Season</strong> doesn't list episodic shows it's a lot simpler to use than your average podcast player. There are no feeds, subscriptions or "up next" pages to juggle around. Just find a season you want to listen to, start playing and it plays all episodes, from beginning to end. It has the feel of an audio book player.
+    description                           : Since <strong>Season</strong> doesn't list episodic shows it's a lot simpler to use than your average podcast player. There are no feeds or subscriptions to juggle. Just find a season you want to listen to, start playing and it plays all episodes, from beginning to end. It feels like an audio book player.
     fontawesome_icon_name                 : smile
     
 
