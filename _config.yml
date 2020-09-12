@@ -36,25 +36,25 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Long form only
-    description                           : <bold>Season</bold> only lists long form podcasts (be it fiction or journalism) that tell one story over multiple episodes. Think <em>Serial</em>, <em>S-Town</em>, <em>Homecoming</em>, <em>Rabbit Hole</em> or <em>Dolly Parton's America</em>. <strong>Season</strong> makes it easy to find shows like these and provides a player experience tailored to them.
+    description                           : <strong>strong</bold> only lists long form podcasts (be it fiction or journalism) that tell one story over multiple episodes. Think <strong>Serial</strong>, <strong>S-Town</strong>, <strong>Homecoming</strong>, <strong>Rabbit Hole</strong> or <strong>Dolly Parton's America</strong>. <strong>Season</strong> makes it easy to find shows like these and provides a player experience tailored to them.
     fontawesome_icon_name                 : podcast
     
   - title                                 : Complete seasons only
-    description                           : Every show you find in Season is complete and ready to be binged now, so you never have to wait around for the next episode to drop.
+    description                           : Every show you find in <strong>Season</strong> is complete and ready to be binged now, so you never have to wait around for the next episode to drop.
     fontawesome_icon_name                 : headphones
 
   - title                                 : Human curation
-    description                           : There are half a million podcasts out there, but only about a thousand you want to listen to. With Season you get more needle and less haystack, making it easier to find the stuff you love.
+    description                           : There are half a million podcasts out there, but only about a thousand you want to listen to. With <strong>Season</strong> you get more needle and less haystack, making it easier to find the stuff you love.
     fontawesome_icon_name                 : star
 
 
   - title                                 : Simplicity
-    description                           : Since Season doesn't list episodic shows it's a lot simpler to use than your average podcast player. There are no feeds, subscriptions or "up next" pages to juggle around. Just find a season you want to listen to, start playing and it plays all episodes, from beginning to end. It has the feel of an audio book player.
+    description                           : Since <strong>Season</strong> doesn't list episodic shows it's a lot simpler to use than your average podcast player. There are no feeds, subscriptions or "up next" pages to juggle around. Just find a season you want to listen to, start playing and it plays all episodes, from beginning to end. It has the feel of an audio book player.
     fontawesome_icon_name                 : smile
     
 
   - title                                 : Have your say
-    description                           : Season is still in beta and is still getting molded. If you have a feature you always wanted in a podcast player, this is your chance to get it in.
+    description                           : <strong>Season</strong> is still in beta and is still getting molded. If you have a feature you always wanted in a podcast player, this is your chance to get it in.
     fontawesome_icon_name                 : flask
 
 
