@@ -43,8 +43,8 @@ features                                  :
     description                           : Every show you find in <strong>Season</strong> is complete and ready to be binged now, so you never have to wait around for the next episode to drop.
     fontawesome_icon_name                 : headphones
 
-  - title                                 : Human curation = less haystack, more needle
-    description                           : There are half a million podcasts out there, but only about a thousand you want to listen to. <strong>Season</strong> only lists high quality shows, making it easier to find the stuff you love.
+  - title                                 : Less haystack, more needle
+    description                           : There are half a million podcasts out there. <strong>Season</strong> only lists high quality shows, making it easier to find the stuff you love.
     fontawesome_icon_name                 : star
 
 
