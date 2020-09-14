@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Limited series and audio drama only
-    description                           : <strong>Season</strong> only lists long form podcasts that tell one story over many episodes. It can be limited series like <strong><em>Serial</em></strong> and <strong><em>S-Town</em></strong>, or audio dramas like <strong><em>Homecoming</em></strong> and <strong><em>The Black Tapes</em><strong>. No news, sports, pundits or random three guys with a microphone. Just the good stuff.
+    description                           : <strong>Season</strong> only lists long form podcasts that tell one story over many episodes. It can be limited series like <strong><em>Serial</em></strong> and <strong><em>S-Town</em></strong>, or audio dramas like <strong><em>Homecoming</em></strong> and <strong><em>The Black Tapes</em><strong>. No news, sports, pundits or random three guys with a microphone. **Just the good stuff**.
     fontawesome_icon_name                 : podcast
 
   - title                                 : As simple as an audio book player
