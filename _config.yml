@@ -35,9 +35,9 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  # - title                                 : Limited series and audio drama only
-  #   description                           : <strong>Season</strong> only lists long form podcasts that tell one story over many episodes. It can be limited series like <strong><em>Serial</em></strong> and <strong><em>S-Town</em></strong>, or audio dramas like <strong><em>Homecoming</em></strong> and <strong><em>The Black Tapes</em><strong>. No news, sports, pundits or random three guys with a microphone. **Just the good stuff**.
-  #   fontawesome_icon_name                 : podcast
+  - title                                 : Limited series and audio drama only
+    description                           : <strong>Season</strong> only lists long form podcasts that tell one story over many episodes. It can be limited series like <strong><em>Serial</em></strong> and <strong><em>S-Town</em></strong>, or audio dramas like <strong><em>Homecoming</em></strong> and <strong><em>The Black Tapes</em><strong>. No news, sports, pundits or random three guys with a microphone. Just the good stuff.
+    fontawesome_icon_name                 : podcast
 
   - title                                 : As simple as an audio book player
     description                           : Since <strong>Season</strong> is tailored to serialized shows it's a lot simpler than your average podcast player. There are no feeds or subscriptions to juggle. Just start playing a season and it plays all episodes from beginning to end. It's as simple as an audio book player.
