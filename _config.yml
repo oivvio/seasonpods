@@ -36,8 +36,13 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Limited series and audio drama only
-    description                           : <strong>Season</strong> only lists long form podcasts (be it fiction or journalism) that tell one story over multiple episodes. Think <strong><em>Serial</em></strong>, <strong><em>S-Town</em></strong> or  <strong><em>Homecoming</em></strong>. <strong>Season</strong> makes it easy to find shows like these and provides a player experience tailored to them.
+    description                           : <strong>Season</strong> only lists long form podcasts that tell one story over many episodes. It can be limited series like <strong><em>Serial</em></strong> and <strong><em>S-Town</em></strong>, or audio dramas like <strong><em>Homecoming</em></strong> and <strong><em>The Black Tapes</em><Strong>. No news, sports, pundits or random three guys with a microphone. Just the good stuff.
     fontawesome_icon_name                 : podcast
+
+  - title                                 : As simple as an audio book player
+    description                           : Since <strong>Season</strong> is tailored to serialized shows it's a lot simpler than your average podcast player. There are no feeds or subscriptions to juggle. Just start playing a season and it plays all episodes from beginning to end. It's as simple as an audio book player.
+    fontawesome_icon_name                 : smile
+    
     
   - title                                 : Complete seasons only
     description                           : Every show you find in <strong>Season</strong> is complete and ready to be binged now, so you never have to wait around for the next episode to drop.
@@ -47,16 +52,10 @@ features                                  :
     description                           : There are half a million podcasts out there. <strong>Season</strong> only lists high quality shows, making it easier to find the stuff you love.
     fontawesome_icon_name                 : star
 
-
-  - title                                 : As simple as an audio book player
-    description                           : Since <strong>Season</strong> doesn't list episodic shows it's a lot simpler to use than your average podcast player. There are no feeds or subscriptions to juggle. Just start playing a season and it plays all episodes from beginning to end. It feels like an audio book player.
-    fontawesome_icon_name                 : smile
     
-
   - title                                 : Have your say
     description                           : <strong>Season</strong> is still in beta and is still getting molded. If you have a feature you always wanted in a podcast player, this is your chance to get it in.
     fontawesome_icon_name                 : flask
-
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
