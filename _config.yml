@@ -3,7 +3,7 @@ page_title: Season # Automatically populates with app name if not set and if iOS
 
 #
 #App Info
-ios_app_id: 1504295207 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+# ios_app_id: 1504295207 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link: https://apps.apple.com/se/app/season-podcasts/id1504295207 # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link: # Enter Google Play Store URL.
